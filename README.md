@@ -1,7 +1,7 @@
 <img src="https://zdnet4.cbsistatic.com/hub/i/2018/12/04/770f95d0-764b-4618-9609-5283e4d93966/quora.png" alt="quora" width="1000" height="300"> 
 
 
-# Quora-question-Pair-similarity
+# Quora-question-pair-similarity
 Identify which questions asked on Quora are duplicates of questions that have already been asked.This could be useful to instantly provide answers to questions that have already been answered.We will predict whether a pair of questions are duplicates or not using various machine learning techniques.
 
 ## Data Source
