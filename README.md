@@ -15,3 +15,4 @@ I have written a blog explaining the approach i used to solve this sentiment ana
 
 ## Results
 
+<img src="https://github.com/arunm8489/Quora-question-Pair-similarity/blob/master/images/quora.png" alt="quora_" width="800" height="500"> 
