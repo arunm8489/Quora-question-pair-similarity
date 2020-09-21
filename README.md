@@ -18,7 +18,7 @@ Identify which questions asked on Quora are duplicates of questions that have al
 
 
 ## Blog explanation:
-I have written a blog explaining the approach i used to solve this sentiment analysis problem from basic EDA to model creation. You can read my medium blog for that.
+I have written a blog explaining the approach i used to solve this sentiment analysis problem from basic EDA to model creation. You can read my <a href="https://towardsdatascience.com/finding-duplicate-quora-questions-using-machine-learning-249475b7d84d"> medium blog</a> for that.
 
 ## Results
 
